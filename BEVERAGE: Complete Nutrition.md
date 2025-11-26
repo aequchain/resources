@@ -2336,168 +2336,164 @@ This completes the OPTIMBEST Complete Nutrition Beverage Formula.
 ------------
 #
 # COMPLETE INGREDIENT LIST (Every Single Ingredient from the Final Omni-Life Formula – Triple-Checked)
-
-Pea Protein Isolate (fermented)
-Brown Rice Protein (fermented)
-Hydrolyzed Collagen Peptides (Type I & III)
-L-Tyrosine
-Taurine
-Glycine
-Acetyl-L-Carnitine
-Oat Bran Fiber
-Tapioca Maltodextrin
-Acacia Fiber
-Inulin
-MCT Oil Powder (C8/C10)
-Algal Oil (EPA + DHA)
-Flaxseed Oil Powder
-Borage Oil
-Sunflower Lecithin
-Vitamin B1 (Benfotiamine)
-Vitamin B2 (Riboflavin-5-Phosphate)
-Vitamin B3 (Niacinamide + Nicotinic Acid)
-Vitamin B5 (Calcium D-Pantothenate)
-Vitamin B6 (Pyridoxal-5-Phosphate)
-Vitamin B7 (Biotin)
-Vitamin B9 (L-5-MTHF Quatrefolic®)
-Vitamin B12 (Methylcobalamin + Adenosylcobalamin)
-Vitamin A (Beta-Carotene + Retinyl Palmitate)
-Vitamin D3 (Cholecalciferol)
-Vitamin E (Mixed Tocopherols + Tocotrienols)
-Vitamin K1 (Phylloquinone)
-Vitamin K2 (MK-7)
-Vitamin C (Ascorbic Acid)
-Sodium Ascorbate
-Calcium Ascorbate
-Acerola Cherry Extract
-Calcium (Citrate Malate + from Ascorbate)
-Magnesium Bisglycinate
-Magnesium L-Threonate
-Potassium Citrate
-Sodium (Himalayan Pink Salt / Sea Salt)
-Chloride (from salt)
-Protease
-Amylase
-Lipase
-Cellulase
-Hemicellulase
-Lactase
-Alpha-Galactosidase
-Bromelain
-Papain
-Bacillus coagulans
-Bacillus subtilis
-Saccharomyces boulardii
-NMN (Nicotinamide Mononucleotide)
-Coenzyme Q10 (Ubiquinol)
-PQQ (Pyrroloquinoline Quinone)
-Alpha-Lipoic Acid (R-ALA)
-Creatine Monohydrate
-Trans-Resveratrol
-Spermidine (Wheat Germ Extract)
-Fisetin
-Apigenin
-L-Carnosine
-Beta-Alanine
-L-Glutathione (Reduced)
-NAC (N-Acetyl Cysteine)
-Astaxanthin
-Ashwagandha (KSM-66®)
-Rhodiola Rosea
-Holy Basil (Tulsi)
-Schisandra Berry Extract
-Maca Root (Gelatinized)
-L-Theanine
-Lion’s Mane
-Cordyceps militaris
-Chaga
-Reishi
-Turkey Tail
-Maitake
-Shiitake
-Enoki
-Agaricus blazei
-Oyster Mushroom
-Yeast Beta-Glucans (1,3/1,6)
-Elderberry Extract
-Astragalus Root Extract
-Andrographis
-Aged Garlic Extract
-L-Arginine
-L-Citrulline
-Beetroot Powder
-Hawthorn Berry Extract
-Bergamot Orange Extract
-Olive Leaf Extract
-Nattokinase
-Grape Seed Extract
-Pine Bark Extract
-Bacopa Monnieri
-Ginkgo Biloba
-Alpha-GPC
-CDP-Choline (Citicoline)
-Phosphatidylserine
-Huperzine A
-Curcumin (C3 Complex® 95% Curcuminoids)
-Turmeric Essential Oil (Turmerones)
-Ginger Root Extract
-Boswellia Serrata
-White Willow Bark Extract
-Tart Cherry Extract
-Broccoli Sprout Extract (Sulforaphane)
-DIM (Diindolylmethane)
-Indole-3-Carbinol
-Green Tea Extract (EGCG)
-Quercetin
-Hesperidin
-Naringin
-Rutin
-Spectra™ Berry Blend (or equivalent multi-berry polyphenol complex)
-Pomegranate Extract
-Lycopene
-Red Grape Extract
-Strawberry Extract
-Blueberry Extract
-Blackcurrant Extract
-Cranberry Extract
-Raspberry Extract
-Lutein
-Zeaxanthin
-Bilberry Extract
-Black Currant Extract
-Berberine HCl
-Ceylon Cinnamon Extract
-Gymnema Sylvestre
-Bitter Melon Extract
-Fenugreek Extract
-Milk Thistle (Silymarin)
-Chlorella (Broken Cell Wall)
-MSM (Methylsulfonylmethane)
-TMG (Trimethylglycine / Betaine)
-BioPerine® (Black Pepper Extract 95% Piperine)
-Bonito Elastin Peptide (optional/mentioned)
-Ceramide (from Rice Extract)
-
-------------
-#
-## SEPARATE LIST: ALL METALS + SILICON (Minerals Only)
-
-Calcium
-Magnesium
-Potassium
-Sodium
-Chloride
-Phosphorus
-Iron
-Zinc
-Copper
-Selenium
-Manganese
-Chromium
-Molybdenum
-Iodine
-Boron
-Silicon
-Strontium
-Vanadium
-Lithium
+    1. Pea Protein Isolate (fermented) 
+    2. Brown Rice Protein (fermented) 
+    3. Hydrolyzed Collagen Peptides (Type I & III) 
+    4. L-Tyrosine 
+    5. Taurine 
+    6. Glycine 
+    7. Acetyl-L-Carnitine 
+    8. Oat Bran Fiber 
+    9. Tapioca Maltodextrin 
+    10. Acacia Fiber 
+    11. Inulin 
+    12. MCT Oil Powder (C8/C10) 
+    13. Algal Oil (EPA + DHA) 
+    14. Flaxseed Oil Powder 
+    15. Borage Oil 
+    16. Sunflower Lecithin 
+    17. Vitamin B1 (Benfotiamine) 
+    18. Vitamin B2 (Riboflavin-5-Phosphate) 
+    19. Vitamin B3 (Niacinamide + Nicotinic Acid) 
+    20. Vitamin B5 (Calcium D-Pantothenate) 
+    21. Vitamin B6 (Pyridoxal-5-Phosphate) 
+    22. Vitamin B7 (Biotin) 
+    23. Vitamin B9 (L-5-MTHF Quatrefolic®) 
+    24. Vitamin B12 (Methylcobalamin + Adenosylcobalamin) 
+    25. Vitamin A (Beta-Carotene + Retinyl Palmitate) 
+    26. Vitamin D3 (Cholecalciferol) 
+    27. Vitamin E (Mixed Tocopherols + Tocotrienols) 
+    28. Vitamin K1 (Phylloquinone) 
+    29. Vitamin K2 (MK-7) 
+    30. Vitamin C (Ascorbic Acid) 
+    31. Sodium Ascorbate 
+    32. Calcium Ascorbate 
+    33. Acerola Cherry Extract 
+    34. Calcium (Citrate Malate + from Ascorbate) 
+    35. Magnesium Bisglycinate 
+    36. Magnesium L-Threonate 
+    37. Potassium Citrate 
+    38. Sodium (Himalayan Pink Salt / Sea Salt) 
+    39. Chloride (from salt) 
+    40. Protease 
+    41. Amylase 
+    42. Lipase 
+    43. Cellulase 
+    44. Hemicellulase 
+    45. Lactase 
+    46. Alpha-Galactosidase 
+    47. Bromelain 
+    48. Papain 
+    49. Bacillus coagulans 
+    50. Bacillus subtilis 
+    51. Saccharomyces boulardii 
+    52. NMN (Nicotinamide Mononucleotide) 
+    53. Coenzyme Q10 (Ubiquinol) 
+    54. PQQ (Pyrroloquinoline Quinone) 
+    55. Alpha-Lipoic Acid (R-ALA) 
+    56. Creatine Monohydrate 
+    57. Trans-Resveratrol 
+    58. Spermidine (Wheat Germ Extract) 
+    59. Fisetin 
+    60. Apigenin 
+    61. L-Carnosine 
+    62. Beta-Alanine 
+    63. L-Glutathione (Reduced) 
+    64. NAC (N-Acetyl Cysteine) 
+    65. Astaxanthin 
+    66. Ashwagandha (KSM-66®) 
+    67. Rhodiola Rosea 
+    68. Holy Basil (Tulsi) 
+    69. Schisandra Berry Extract 
+    70. Maca Root (Gelatinized) 
+    71. L-Theanine 
+    72. Lion’s Mane 
+    73. Cordyceps militaris 
+    74. Chaga 
+    75. Reishi 
+    76. Turkey Tail 
+    77. Maitake 
+    78. Shiitake 
+    79. Enoki 
+    80. Agaricus blazei 
+    81. Oyster Mushroom 
+    82. Yeast Beta-Glucans (1,3/1,6) 
+    83. Elderberry Extract 
+    84. Astragalus Root Extract 
+    85. Andrographis 
+    86. Aged Garlic Extract 
+    87. L-Arginine 
+    88. L-Citrulline 
+    89. Beetroot Powder 
+    90. Hawthorn Berry Extract 
+    91. Bergamot Orange Extract 
+    92. Olive Leaf Extract 
+    93. Nattokinase 
+    94. Grape Seed Extract 
+    95. Pine Bark Extract 
+    96. Bacopa Monnieri 
+    97. Ginkgo Biloba 
+    98. Alpha-GPC 
+    99. CDP-Choline (Citicoline) 
+    100. Phosphatidylserine 
+    101. Huperzine A 
+    102. Curcumin (C3 Complex® 95% Curcuminoids) 
+    103. Turmeric Essential Oil (Turmerones) 
+    104. Ginger Root Extract 
+    105. Boswellia Serrata 
+    106. White Willow Bark Extract 
+    107. Tart Cherry Extract 
+    108. Broccoli Sprout Extract (Sulforaphane) 
+    109. DIM (Diindolylmethane) 
+    110. Indole-3-Carbinol 
+    111. Green Tea Extract (EGCG) 
+    112. Quercetin 
+    113. Hesperidin 
+    114. Naringin 
+    115. Rutin 
+    116. Spectra™ Berry Blend (or equivalent multi-berry polyphenol complex) 
+    117. Pomegranate Extract 
+    118. Lycopene 
+    119. Red Grape Extract 
+    120. Strawberry Extract 
+    121. Blueberry Extract 
+    122. Blackcurrant Extract 
+    123. Cranberry Extract 
+    124. Raspberry Extract 
+    125. Lutein 
+    126. Zeaxanthin 
+    127. Bilberry Extract 
+    128. Black Currant Extract 
+    129. Berberine HCl 
+    130. Ceylon Cinnamon Extract 
+    131. Gymnema Sylvestre 
+    132. Bitter Melon Extract 
+    133. Fenugreek Extract 
+    134. Milk Thistle (Silymarin) 
+    135. Chlorella (Broken Cell Wall) 
+    136. MSM (Methylsulfonylmethane) 
+    137. TMG (Trimethylglycine / Betaine) 
+    138. BioPerine® (Black Pepper Extract 95% Piperine) 
+    139. Bonito Elastin Peptide (optional/mentioned) 
+    140. Ceramide (from Rice Extract) 
+#   
+# SEPARATE LIST: ALL METALS + SILICON (Minerals Only)
+    • Calcium 
+    • Magnesium 
+    • Potassium 
+    • Sodium 
+    • Chloride 
+    • Phosphorus 
+    • Iron 
+    • Zinc 
+    • Copper 
+    • Selenium 
+    • Manganese 
+    • Chromium 
+    • Molybdenum 
+    • Iodine 
+    • Boron 
+    • Silicon 
+    • Strontium 
+    • Vanadium 
+    • Lithium
