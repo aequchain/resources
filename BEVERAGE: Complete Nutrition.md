@@ -2333,10 +2333,9 @@ This completes the OPTIMBEST Complete Nutrition Beverage Formula.
 **Result: The most comprehensive plant-based nutritional formula achievable with current science.**
 
 
------
+------------
 #
-## Complete List
--------
+# COMPLETE INGREDIENT LIST (Every Single Ingredient from the Final Omni-Life Formula – Triple-Checked)
 
 Pea Protein Isolate (fermented)
 Brown Rice Protein (fermented)
@@ -2479,10 +2478,10 @@ BioPerine® (Black Pepper Extract 95% Piperine)
 Bonito Elastin Peptide (optional/mentioned)
 Ceramide (from Rice Extract)
 
+------------
 #
-### METALS + SILICON:
+## SEPARATE LIST: ALL METALS + SILICON (Minerals Only)
 
------------------------------------------
 Calcium
 Magnesium
 Potassium
