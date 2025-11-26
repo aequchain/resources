@@ -2335,7 +2335,7 @@ This completes the OPTIMBEST Complete Nutrition Beverage Formula.
 
 ------------
 #
-# COMPLETE INGREDIENT LIST (Every Single Ingredient from the Final Omni-Life Formula – Triple-Checked)
+# COMPLETE INGREDIENT LIST
     1. Pea Protein Isolate (fermented) 
     2. Brown Rice Protein (fermented) 
     3. Hydrolyzed Collagen Peptides (Type I & III) 
