@@ -2497,3 +2497,8 @@ This completes the OPTIMBEST Complete Nutrition Beverage Formula.
     • Strontium 
     • Vanadium 
     • Lithium
+
+   RECOMMENDATION:
+    // this should be coupled with diverse fresh foods (think -> Equipping Cells) [diverse uncooked salads + Protein]
+    dermo collagen - exfoliate, cleanser, toner, moisturizer
+    healthy activity (exercise)
