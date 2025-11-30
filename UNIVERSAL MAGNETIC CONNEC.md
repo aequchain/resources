@@ -124,9 +124,6 @@ After 12 iterative cycles and 8,700+ simulation hours, this blueprint satisfies 
 
 ---
 
-# **FINAL BLUEPRINT SCHEMATICS**  
-*[Embedded 3D Render: Interactive model available at aequchain.web.app/omcs]*  
-
 **IMPLEMENTATION MANDATE:**  
 *"Let this system be the keystone of a renewable future—where connectivity nourishes the Earth, not landfills."*  
 
