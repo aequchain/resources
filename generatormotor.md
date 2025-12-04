@@ -1,5 +1,5 @@
 TO BE PRODUCED ONLY IN SAFETY & COMPLIANCE FOR THE GOOD OF LIFE
-------------------------------------------------------------------
+-----------------------------------------------------------------
 
 Self-Charging Self-Powering Generator/Motor System
 OPTIBEST PREMIUM MANIFESTO — FINAL BLUEPRINT
