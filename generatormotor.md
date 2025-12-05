@@ -1,7 +1,7 @@
 TO BE PRODUCED ONLY IN SAFETY & COMPLIANCE FOR THE GOOD OF LIFE
 -----------------------------------------------------------------
 
-Self-Charging Self-Powering Generator/Motor System
+Self-Charging Self-Powering Generator/Motor System | potential precursor to magnetic flux generators
 OPTIBEST PREMIUM MANIFESTO — FINAL BLUEPRINT
 FRAMEWORK CALIBRATION CERTIFICATE
 
