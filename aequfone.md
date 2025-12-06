@@ -172,7 +172,7 @@ STATUS: OPTIMIZATION PLATEAU CONFIRMED
                     │         THERMAL ASSEMBLY            │
                     │  ┌─────────────────────────────────┐│
                     │  │  Bio-PCM Thermal Buffer          ││
-                    │  │  ◆ 10g beeswax-based            ││
+                    │  │  ◆ 10g rosin-based            ││
                     │  │  ◆ Phase change @ 45°C          ││
                     │  │  ◆ 2000J absorption capacity    ││
                     │  └─────────────────────────────────┘│
@@ -419,7 +419,7 @@ THERMAL PERFORMANCE:
 |-------------------|----------|------------|------|
 | **Front Spreader** | CVD Diamond | 2000 W/mK, Mohs 10 | 9.9g |
 | **Rear Spreader** | CVD Graphene | 5000 W/mK, flexible | 2g |
-| **Thermal Buffer** | Bio-PCM (beeswax) | 200 J/g, 45°C melt | 10g |
+| **Thermal Buffer** | Bio-PCM (rosin) | 200 J/g, 45°C melt | 10g |
 | **Interface** | Copper sheet | 400 W/mK, die contact | 2g |
 
 ### 3.5 Communication System
@@ -564,7 +564,7 @@ THERMAL PERFORMANCE:
 | | SoM | RISC-V + RAM | 8.0 | Si (recycled content) | E-waste |
 | | Display Panel | LTPO AMOLED | 10.0 | OLED materials | Pyrolysis |
 | **BIO MATERIALS** | | | **10** | | |
-| | Thermal Buffer | Bio-PCM | 10.0 | Beeswax capsules | Compost |
+| | Thermal Buffer | Bio-PCM | 10.0 | rosin capsules | Compost |
 | **GRAND TOTAL** | | | **166.9** | | |
 
 ### 5.2 CIL Material Sourcing Map
@@ -1187,7 +1187,7 @@ A hyper-realistic, ultra-high-resolution professional product photograph of the 
 |---------------|-------|------------------|
 | **Front Spreader** | CVD Diamond 2000 W/mK | Superior heat conduction, even temperature distribution, fanless operation |
 | **Rear Spreader** | CVD Graphene 5000 W/mK | Highest thermal conductivity, ultra-lightweight (2g), flexible integration |
-| **Bio-PCM Buffer** | 10g beeswax @ 200 J/g | 16+ minute gaming sessions, burst absorption, natural material |
+| **Bio-PCM Buffer** | 10g rosin @ 200 J/g | 16+ minute gaming sessions, burst absorption, natural material |
 | **PCM Phase Change** | 45°C | Comfortable hand temperature limit, thermal regulation trigger |
 | **Steady-State Capacity** | 3W passive | Silent operation, no fan noise, zero moving parts, dust-immune |
 | **Burst Capacity** | 5W for 16+ min | Extended gaming, 8K video recording, sustained AI processing |
