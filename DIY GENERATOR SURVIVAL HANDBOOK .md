@@ -1,3 +1,5 @@
+# INTENDED OF USE OF GOOD OF ALL OF GOOD OF LIFE
+---
 OPTIBEST MAGNETIC ELECTRICITY GENERATOR HANDBOOK
 Universal Open-Source Blueprint for Sustainable Power Generation
 
