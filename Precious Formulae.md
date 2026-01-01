@@ -1,7 +1,7 @@
 ###### **intend of use of good of life of all**
 ---
 
-# The Precious Formulas
+# The Precious Formulae
 ## Irreplaceable Foundations of Human Understanding
 
 ---
