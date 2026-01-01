@@ -787,6 +787,6 @@ $$\rho\left(\frac{\partial \mathbf{v}}{\partial t} + \mathbf{v} \cdot \nabla\mat
 
 These formulas are not mere symbols—they are **compressed understanding**. Each encodes decades or centuries of human discovery into a form that can be transmitted, taught, and applied.
 
-*The loss of any single formula could be reconstructed given sufficient time and genius. But the loss of all simultaneously would return humanity to an age before we understood why the stars shine, why things fall, why we can communicate across oceans, or why our medicines work.*
+*The loss of any single formula could be reconstructed given sufficient time and genius. The loss of all simultaneously would return humanity to an age before we understood why the stars shine, why things fall, why we can communicate across oceans, or why our medicines work.*
 
 **They are the crystallized wisdom of our species.**
