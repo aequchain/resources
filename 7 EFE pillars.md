@@ -39,10 +39,10 @@ Being 7-Pillar EFE Verified means a design has successfully demonstrated excelle
     *   **Water Cycling:** The system is designed with closed-loop water cycling wherever possible to continuously reuse and recycle water internally.
 
 ### Pillar 5: Social Sustainability
-*   **Requirement:** The system must be ethically sound, accessible to all, and have a net-positive impact on communities.
+*   **Requirement:** The system must be ethically sound, accessible to all, and have a net-positive effect on communities.
 *   **PASS Criteria:**
     *   **Labor Conditions:** A social audit confirms fair and safe labor practices throughout the entire supply and production chain.
-    *   **Community Impact:** An impact assessment demonstrates a net-positive effect on the communities involved in its production and use.
+    *   **Community Effect:  * An effect assessment demonstrates a net-positive effect on the communities involved in its production and use.
     *   **Accessibility:** An accessibility review confirms the design is globally implementable and its benefits are not restricted to a specific region or group.
     *   **Skills:** The skills required for manufacturing, maintenance, and repair are documented and designed to be easily transferable and learnable by local communities.
 
