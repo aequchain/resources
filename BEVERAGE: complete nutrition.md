@@ -414,11 +414,11 @@ Missing Elements That Purpose Requires:
 GAP SUMMARY (Prioritized by Influence):
 
 **CRITICAL GAPS (Must address):**
-1. Digestive enzyme complex - HIGH impact on bioavailability of entire formula
-2. Probiotic strains - HIGH impact on gut health, immunity, nutrient synthesis
-3. Complete mineral profile (boron, silicon, strontium, sodium, chloride) - HIGH impact on bone, connective tissue, electrolyte balance
-4. Curcumin/turmeric - HIGH impact on inflammation and longevity
-5. Vitamin C explicitly listed - HIGH impact on collagen, immunity, iron absorption
+1. Digestive enzyme complex - HIGH effect on bioavailability of entire formula
+2. Probiotic strains - HIGH effect on gut health, immunity, nutrient synthesis
+3. Complete mineral profile (boron, silicon, strontium, sodium, chloride) - HIGH effect on bone, connective tissue, electrolyte balance
+4. Curcumin/turmeric - HIGH effect on inflammation and longevity
+5. Vitamin C explicitly listed - HIGH effect on collagen, immunity, iron absorption
 
 **HIGH PRIORITY GAPS:**
 6. Additional phytonutrients (sulforaphane, EGCG, citrus bioflavonoids) - Multiple system benefits
