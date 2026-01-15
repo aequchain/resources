@@ -72,7 +72,7 @@ Skateboarding Feel Components:
     Hard surface precision
     Immediate truck response
     Tail pop mechanics
-    Impact absorption on landing
+    effect absorption on landing
     Surface texture feedback
     Push-glide rhythm
 
@@ -240,7 +240,7 @@ The deck can transform between:
 Haptic Simulation System:
 Surface Type	Vibration Pattern	Flex Response	Special Effect
 Wave face	Organic undulation	Flowing soft	Deck "breathes" with simulated wave
-Concrete	High-freq texture	Rigid	Impact pulses on cracks/seams
+Concrete	High-freq texture	Rigid	effect pulses on cracks/seams
 Powder snow	Soft resistance	Progressive	Float sensation, edge bite simulation
 Water surface	Spray pattern	Medium	Lateral resistance simulation
 Grass/dirt	Irregular texture	Absorbing	Terrain tracking vibration
@@ -328,7 +328,7 @@ Parameter	Setting
 Hover height	2-6 cm (close to surface feel)
 Deck flex	Rigid (3mm max deflection)
 Response curve	Immediate, snappy
-Haptic pattern	Surface texture, impact pulses
+Haptic pattern	Surface texture, effect pulses
 Propulsion feel	Push-coast rhythm available
 Special features	Ollie detection, trick stabilization option
 
@@ -1763,7 +1763,7 @@ Test Sequence:
 ├─────────────────────────┼─────────────────────┼────────────────────┤
 │ Static load             │ 200 kg center load  │ <5mm deflection    │
 │ Torsional stiffness     │ ±15° twist test    │ Within spec ±10%   │
-│ Impact resistance       │ 50J drop test      │ No visible damage  │
+│ effect resistance       │ 50J drop test      │ No visible damage  │
 │ Fatigue pre-check       │ 1000 flex cycles   │ No cracking        │
 └────────────────────────────────────────────────────────────────────┘
 
@@ -2396,7 +2396,7 @@ text
 │   ─────────────────                                                         │
 │   • Smart helmet (integrated comms, heads-up display)                      │
 │   • Wrist guards with fall detection                                       │
-│   • Smart knee/elbow pads (impact reporting)                               │
+│   • Smart knee/elbow pads (effect reporting)                               │
 │   • High-visibility LED strips (magnetic attach)                           │
 │   • Airbag vest (wireless trigger)                                         │
 │                                                                              │
