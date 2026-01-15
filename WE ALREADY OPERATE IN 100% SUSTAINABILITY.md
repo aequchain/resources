@@ -632,7 +632,7 @@ EBITDA Margin 72% 87%
 Payback Period 1.5 years 0.4 years
 NPV (10% discount, 10 years) $45,000,000 $180,000,000
 IRR 85% 250%
-PHASE 8: ENVIRONMENTAL IMPACT
+PHASE 8: ENVIRONMENTAL effect
 8.1 Carbon Balance
 
 text
@@ -660,7 +660,7 @@ NET CARBON BALANCE: +1,100.5 tonnes CO₂e/year
 ════════════════════════════════════════════════════
 
 8.2 Additional Environmental Benefits
-Benefit Metric Impact
+Benefit Metric effect
 Pesticide reduction -95% synthetic use Ecosystem protection
 Water efficiency -26% per kg crop Water conservation
 Soil health +0.8% SOM/year Regeneration
@@ -747,7 +747,7 @@ text
 Start with HTC + agricultural cycle
 Add biogas → CVD as scale justifies
 Integrate graphene processing at maturity
-License globally for maximum impact
+License globally for maximum effect
 
 VERIFICATION CERTIFICATE
 
@@ -1178,7 +1178,7 @@ Steady-State Operations Verification applies to Phase 3 (steady-state) operation
 AI Verification This is an AI-generated theoretical verification, not a legal certification from an accredited certification body.
 Implementation Dependent Actual sustainability performance depends on quality of implementation. Design sustainability ≠ operational sustainability until properly built and operated.
 9.2 Assumptions Made
-Assumption Basis Impact if Invalid
+Assumption Basis effect if Invalid
 Systems built to specification Documented designs are implementable Sustainability claims may not hold
 Renewable energy available Solar/biomass resources accessible External energy may be needed
 Agricultural land available Sufficient land for biomass production Scale may be limited
