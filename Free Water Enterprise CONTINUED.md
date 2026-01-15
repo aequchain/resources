@@ -127,7 +127,7 @@ Free services delivered (combined):
 
 **VISION:** Network of 10+ independent cooperative facilities across nation
 
-**YEAR 20 PROJECTED IMPACT:**
+**YEAR 20 PROJECTED effect:**
 
 ```
 NETWORK STATISTICS:
@@ -154,7 +154,7 @@ DISTRIBUTION OF SURPLUS:
 
 ### Critical Risk Analysis
 
-| Risk | Probability | Impact | Mitigation | Status |
+| Risk | Probability | effect | Mitigation | Status |
 |------|-------------|--------|-----------|--------|
 | Premium market collapse | MEDIUM | HIGH | Diversified revenue, cost reduction, export | ADDRESSED ✓ |
 | Climate/drought | HIGH | CRITICAL | Multi-source, 90-day reserve, AWG | ADDRESSED ✓ |
@@ -331,7 +331,7 @@ Network expansion to 10-12 facilities across nation
 | Free water cost | $60 | $80 | $96 | $120 | $200 |
 | Cost per free bottle | $0.12 | $0.10 | $0.09 | $0.06 | $0.04 |
 
-### Social Impact KPIs
+### Social effect KPIs
 
 | Metric | Y1 | Y3 | Y6 | Y10 |
 |--------|----|----|----|----|
@@ -469,7 +469,7 @@ Network expansion to 10-12 facilities across nation
 Water delivery:     Infinite free water to all ← Immutable constraint (thermodynamic limits)
 Initial capital:    Zero required ← Immutable constraint (physical infrastructure needed)
 Operational cost:   Zero ← Immutable constraint (entropy/maintenance required)
-Community impact:   100% satisfaction ← Practical constraint (diverse preferences)
+Community effect:   100% satisfaction ← Practical constraint (diverse preferences)
 Scalability:        Instant global ← Practical constraint (organic growth realistic)
 ```
 
