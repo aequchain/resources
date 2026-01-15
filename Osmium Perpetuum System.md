@@ -1371,7 +1371,7 @@ Analysis:
 • Conclusion: At scale, recovery IS competitive
 • Moreover: If mining externalities priced (carbon tax), mining becomes more expensive
 Defense: System includes phased transition with policy support until scale achieved
-IMPACT: MEDIUM → ADDRESSED
+effect: MEDIUM → ADDRESSED
 
 ATTACK 2: "Collection won't achieve >99% rates"
 ───────────────────────────────────────────────
@@ -1386,7 +1386,7 @@ Defense:
 • High residual value incentivizes return
 • Deposit/buyback schemes where needed
 • Tracking enables "mining" of waste streams for untracked legacy
-IMPACT: MEDIUM → ADDRESSED
+effect: MEDIUM → ADDRESSED
 
 ATTACK 3: "Substitutes won't be accepted"
 ─────────────────────────────────────────
@@ -1400,7 +1400,7 @@ Defense:
 • Only propose substitution where technically equivalent
 • Maintain Os supply for genuine requirements
 • Economic incentives favor substitution
-IMPACT: LOW → ADDRESSED
+effect: LOW → ADDRESSED
 
 ATTACK 4: "Governance won't achieve global adoption"
 ─────────────────────────────────────────────────────
@@ -1414,7 +1414,7 @@ Defense:
 • Trade restrictions on untracked Os
 • Transition support for developing nations
 • Industry consortium provides private sector driver
-IMPACT: MEDIUM → ADDRESSED
+effect: MEDIUM → ADDRESSED
 
 ATTACK 5: "OsO₄ safety incidents will halt operations"
 ───────────────────────────────────────────────────────
@@ -1429,7 +1429,7 @@ Defense:
 • Multiple containment layers
 • Continuous monitoring
 • Emergency response protocols
-IMPACT: LOW → ADDRESSED (with specified safety systems)
+effect: LOW → ADDRESSED (with specified safety systems)
 
 ATTACK 6: "Bioleaching won't achieve projected yields"
 ───────────────────────────────────────────────────────
@@ -1443,9 +1443,9 @@ Defense:
 • Bioleaching specified as enhancement, not critical path
 • If it underperforms, electrochemical handles load
 • Continued R&D assumed
-IMPACT: LOW → ADDRESSED
+effect: LOW → ADDRESSED
 
-NO UNADDRESSED HIGH-IMPACT WEAKNESSES IDENTIFIED
+NO UNADDRESSED HIGH-effect WEAKNESSES IDENTIFIED
 
 Comparative Analysis
 
@@ -3988,7 +3988,7 @@ PHASE 1: SITE PREPARATION (Months 1-3)
 
 MONTH 1:
 □ Site selection completed (industrial zone, utilities available)
-□ Environmental impact assessment approved
+□ Environmental effect assessment approved
 □ Building permits obtained
 □ Site survey and geotechnical investigation
 □ Demolition/clearing if required
@@ -5677,7 +5677,7 @@ SOURCE 2: GOVERNMENT CONTRIBUTIONS (30% of capital = ~$600M)
 │ └── Others: Following lead of early adopters                              │
 │                                                                             │
 │ Justification for public funding:                                          │
-│ ├── Environmental benefit (reduced mining impact)                          │
+│ ├── Environmental benefit (reduced mining effect)                          │
 │ ├── Strategic resource security                                            │
 │ ├── Job creation in circular economy                                       │
 │ └── International cooperation (climate/SDG alignment)                     │
@@ -5777,7 +5777,7 @@ ARTICLE 1: OBJECTIVES
 ├── Achieve 100% circular osmium economy by [Year 25]
 ├── Eliminate net new mining of osmium
 ├── Ensure equitable global access to osmium resources
-├── Minimize environmental impact of osmium use
+├── Minimize environmental effect of osmium use
 └── Preserve osmium for future generations
 
 ARTICLE 2: DEFINITIONS
@@ -5933,7 +5933,7 @@ To ensure facilities can be built and operated globally:
 LOCAL CONTENT REQUIREMENTS
 ───────────────────────────────────────────────────────────────────────────────
 
-To ensure global accessibility and reduce transport impact:
+To ensure global accessibility and reduce transport effect:
 
 | Component Category          | Local Content Target | Notes                    |
 |-----------------------------|---------------------|--------------------------|
