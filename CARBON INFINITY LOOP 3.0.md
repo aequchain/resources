@@ -650,7 +650,7 @@ Pathway Assignment:
 
 ---
 
-## PHASE 8: ENVIRONMENTAL IMPACT
+## PHASE 8: ENVIRONMENTAL effect
 
 ### 8.1 Carbon Balance
 
@@ -680,7 +680,7 @@ NET CARBON BALANCE:                +1,100.5 tonnes CO₂e/year
 
 ### 8.2 Additional Environmental Benefits
 
-| Benefit | Metric | Impact |
+| Benefit | Metric | effect |
 |---------|--------|--------|
 | Pesticide reduction | -95% synthetic use | Ecosystem protection |
 | Water efficiency | -26% per kg crop | Water conservation |
@@ -777,7 +777,7 @@ NET CARBON BALANCE:                +1,100.5 tonnes CO₂e/year
 - Start with HTC + agricultural cycle
 - Add biogas → CVD as scale justifies
 - Integrate graphene processing at maturity
-- License globally for maximum impact
+- License globally for maximum effect
 
 ---
 
