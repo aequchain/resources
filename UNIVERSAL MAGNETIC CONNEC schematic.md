@@ -5776,7 +5776,7 @@ text
 │  │                                                          │   │
 │  │ FM-M02: Housing Crack                                    │   │
 │  │ ─────────────────────────────────────────────────────── │   │
-│  │ Cause: Impact, stress, material degradation            │   │
+│  │ Cause: effect, stress, material degradation            │   │
 │  │ Effect: Exposed contacts, moisture ingress             │   │
 │  │ Detection: Visual inspection, seal integrity test      │   │
 │  │ Mitigation: Flexible PHA blend, strain relief          │   │
