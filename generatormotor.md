@@ -413,7 +413,7 @@ Assembly Notes:
     Segments bonded to aluminum rotor disc with plant-based epoxy
     Assembly jig required for safe handling of 48 magnets per rotor
     Pre-magnetized segments — handle with care for pinch hazards
-    Ferrite is brittle — avoid impact
+    Ferrite is brittle — avoid effect
 
 4.2 Stator Winding
 
@@ -2855,7 +2855,7 @@ TOTAL	2798	100%
 Zero Landfill Guarantee: All materials have defined circular pathways. No component requires disposal.
 12. FUTURE PATHWAY
 12.1 Improvement Opportunities
-Opportunity	Description	Estimated Impact	Timeline
+Opportunity	Description	Estimated effect	Timeline
 MXene-enhanced ferrites	Add MXene flakes to ferrite to boost Br from 0.4T to 0.55T	+30% power density	3-5 years
 Bacterial cellulose coils	Replace Al wire with metallized bacterial cellulose	100% biodegradable windings	5-7 years
 Self-healing insulation	Microencapsulated bio-resin for automatic crack repair	Extended coil life 2×	2-3 years
@@ -2910,7 +2910,7 @@ text
          │  • Fully bio-synthesized components
          │  • Self-repairing materials throughout
          │  • Approaching theoretical efficiency limits
-         │  • Zero-impact lifecycle
+         │  • Zero-effect lifecycle
          │
     ═══════════════════════════════════════════════════════════════════
 
@@ -3848,7 +3848,7 @@ text
     Tensile strength            │ 45         │ 35             │ MPa
     Flexural strength           │ 65         │ 50             │ MPa
     Flexural modulus            │ 4.5        │ 5.5            │ GPa
-    Impact strength (Charpy)    │ 12         │ 8              │ kJ/m²
+    effect strength (Charpy)    │ 12         │ 8              │ kJ/m²
     Hardness (Shore D)          │ 80         │ 82             │ -
     
     Thermal Properties:
