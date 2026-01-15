@@ -419,7 +419,7 @@ NET ENERGY:                 0 kWh (SELF-SUFFICIENT)     ✓ VERIFIED
 
 ### 9.2 Assumptions Made
 
-| Assumption | Basis | Impact if Invalid |
+| Assumption | Basis | effect if Invalid |
 |------------|-------|-------------------|
 | Systems built to specification | Documented designs are implementable | Sustainability claims may not hold |
 | Renewable energy available | Solar/biomass resources accessible | External energy may be needed |
