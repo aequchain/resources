@@ -21,7 +21,7 @@ text
 │  JUSTIFICATION:                                                             │
 │  • Multi-system enterprise spanning water, housing, manufacturing,         │
 │    agriculture, and community services                                      │
-│  • Foundational impact on community wellbeing                               │
+│  • Foundational effect on community wellbeing                               │
 │  • Long-term infrastructure with irreversible investment                    │
 │  • Safety-critical (public health)                                          │
 │  • Global scaling potential                                                 │
@@ -416,7 +416,7 @@ Gap 1: Climate Resilience
 Root Cause: Over-reliance on single water source in original design
 
 Enhancement Options:
-Option	Pros	Cons	Net Impact
+Option	Pros	Cons	Net effect
 A. Multi-source design (rain + ground + AWG)	Redundancy, reliability	Higher capital cost	POSITIVE
 B. Increased storage (90-day reserve)	Drought buffer	Space requirement	POSITIVE
 C. Water efficiency measures (reduce demand)	Lower source need	Behavior change needed	POSITIVE
@@ -529,10 +529,10 @@ Gap 2: Initial Capital Barrier
 Root Cause: Large infrastructure requires significant upfront investment, limiting rapid deployment.
 
 Enhancement Options:
-Option	Pros	Cons	Net Impact
+Option	Pros	Cons	Net effect
 A. Phased development (modular)	Lower initial capital, prove concept	Slower scaling	POSITIVE
 B. Community crowdfunding	Local ownership, engagement	Limited scale	MODERATE
-C. Impact investment	Larger capital access	External dependency	MODERATE
+C. effect investment	Larger capital access	External dependency	MODERATE
 D. Revenue-first (premium before free)	Self-funding	Delays free services	ACCEPTABLE
 E. Hybrid: A + B + D	Maximum flexibility	Complexity	OPTIMAL
 
@@ -584,7 +584,7 @@ text
 │                                                                             │
 │  PHASE 3: SCALED ENTERPRISE                                                │
 │  Timeline: Years 2-5                                                        │
-│  Capital Required: $500,000-1,000,000 (accumulated profits + impact loan)  │
+│  Capital Required: $500,000-1,000,000 (accumulated profits + effect loan)  │
 │  Scope:                                                                     │
 │  • Full multi-source water system                                          │
 │  • Automated bottling line (2,000 bottles/hour)                            │
@@ -629,7 +629,7 @@ Gap 3: Premium Market Dependency
 Root Cause: Free services depend on premium sales revenue; market collapse threatens mission.
 
 Enhancement Options:
-Option	Pros	Cons	Net Impact
+Option	Pros	Cons	Net effect
 A. Revenue diversification	Multiple income streams	Complexity	POSITIVE
 B. Reserve fund (12-month runway)	Operational continuity	Capital tied up	POSITIVE
 C. Cost reduction (automated, efficient)	Lower break-even	Upfront investment	POSITIVE
@@ -2491,7 +2491,7 @@ text
 │  │  Premium justified by:                                              │   │
 │  │  • Superior quality (verifiable)                                   │   │
 │  │  • Sustainability story (compelling)                               │   │
-│  │  • Social impact (every purchase helps)                            │   │
+│  │  • Social effect (every purchase helps)                            │   │
 │  │                                                                     │   │
 │  └─────────────────────────────────────────────────────────────────────┘   │
 │                                                                             │
@@ -2870,7 +2870,7 @@ text
 │  │ Year 2 operating surplus      │ $70,000     │ Projected           │   │
 │  │ Community investment shares   │ $100,000    │ 5% dividend, 5yr    │   │
 │  │ Green energy loan             │ $80,000     │ 3%, 10yr, collat.   │   │
-│  │ Impact investor (housing)     │ $32,000     │ 4%, 15yr            │   │
+│  │ effect investor (housing)     │ $32,000     │ 4%, 15yr            │   │
 │  ├─────────────────────────────────────────────────────────────────────┤   │
 │  │ TOTAL FUNDING                 │ $332,000    │                     │   │
 │  └─────────────────────────────────────────────────────────────────────┘   │
@@ -2995,7 +2995,7 @@ text
 │  │ Year 4-5 projected surplus    │ $800,000    │ Phased              │   │
 │  │ Community investment (Series B)│ $500,000   │ 5%, 7yr             │   │
 │  │ Development bank loan         │ $700,000    │ 3%, 15yr            │   │
-│  │ Impact investment (housing)   │ $400,000    │ 4%, 20yr            │   │
+│  │ effect investment (housing)   │ $400,000    │ 4%, 20yr            │   │
 │  ├─────────────────────────────────────────────────────────────────────┤   │
 │  │ TOTAL FUNDING                 │ $3,000,000  │                     │   │
 │  └─────────────────────────────────────────────────────────────────────┘   │
@@ -3076,7 +3076,7 @@ text
 │  │                                                                     │   │
 │  └─────────────────────────────────────────────────────────────────────┘   │
 │                                                                             │
-│  PHASE 3 IMPACT METRICS (Year 6):                                          │
+│  PHASE 3 effect METRICS (Year 6):                                          │
 │  ┌─────────────────────────────────────────────────────────────────────┐   │
 │  │                                                                     │   │
 │  │  WATER DELIVERY:                                                    │   │
@@ -3098,7 +3098,7 @@ text
 │  │  • Waste to landfill: 0%                                           │   │
 │  │  • Carbon footprint: Net negative (sequestration)                  │   │
 │  │                                                                     │   │
-│  │  COMMUNITY IMPACT:                                                  │   │
+│  │  COMMUNITY effect:                                                  │   │
 │  │  • Community fund distributed: $91,500/year                        │   │
 │  │  • Below-market housing: 20 units                                  │   │
 │  │  • Local agricultural products: $200,000/year                      │   │
@@ -3134,7 +3134,7 @@ text
 │  │  │ Net surplus after allocations     │ $3,800,000                │ │   │
 │  │  └───────────────────────────────────────────────────────────────┘ │   │
 │  │                                                                     │   │
-│  │  IMPACT (Year 10):                                                  │   │
+│  │  effect (Year 10):                                                  │   │
 │  │  • Free water: 8,000,000 L/year                                    │   │
 │  │  • Household connections: 2,500                                    │   │
 │  │  • Employees housed: 350 (100%)                                    │   │
@@ -3232,7 +3232,7 @@ text
 │  KEY RISK FACTORS:                                                          │
 │  ┌─────────────────────────────────────────────────────────────────────┐   │
 │  │                                                                     │   │
-│  │  RISK               │PROBABILITY│ IMPACT │ MITIGATION              │   │
+│  │  RISK               │PROBABILITY│ effect │ MITIGATION              │   │
 │  │  ─────────────────────────────────────────────────────────────────  │   │
 │  │  Drought            │ MEDIUM    │ HIGH   │ Multi-source, reserves  │   │
 │  │  Market competition │ MEDIUM    │ MEDIUM │ Differentiation, loyal  │   │
@@ -3696,7 +3696,7 @@ text
 │  │  │ Delivery on-time       │ >98%      │ Weekly    │ Distribution│ │   │
 │  │  └───────────────────────────────────────────────────────────────┘ │   │
 │  │                                                                     │   │
-│  │  SOCIAL IMPACT KPIs:                                                │   │
+│  │  SOCIAL effect KPIs:                                                │   │
 │  │  ┌───────────────────────────────────────────────────────────────┐ │   │
 │  │  │ Indicator              │ Target        │ Frequency │ Owner   │ │   │
 │  │  ├───────────────────────────────────────────────────────────────┤ │   │
@@ -3745,13 +3745,13 @@ text
 │  │                                                                     │   │
 │  │  QUARTERLY:                                                         │   │
 │  │  • Board report (comprehensive)                                    │   │
-│  │  • Community impact report                                         │   │
+│  │  • Community effect report                                         │   │
 │  │  • Sustainability audit                                            │   │
 │  │  • Strategy review                                                 │   │
 │  │                                                                     │   │
 │  │  ANNUAL:                                                            │   │
 │  │  • Audited financial statements                                    │   │
-│  │  • Annual impact report (public)                                   │   │
+│  │  • Annual effect report (public)                                   │   │
 │  │  • Member report and AGM                                           │   │
 │  │  • Strategic plan update                                           │   │
 │  │  • Third-party sustainability verification                        │   │
