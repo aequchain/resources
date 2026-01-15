@@ -8,7 +8,7 @@ text
 ═══════════════════════════════════════════════════════════════════════════════
                          OPTIBEST FRAMEWORK APPLICATION
 ═══════════════════════════════════════════════════════════════════════════════
-Task Magnitude: MACRO (Global Impact, Foundational)
+Task Magnitude: MACRO (Global effect, Foundational)
 Rigor Level: FULL (Safety-Critical, 100% Sustainability)
 Iterations Completed: 7 (Enhancement Delta → 0)
 Verification Methods: All 5 PASSED
@@ -3982,7 +3982,7 @@ text
     │    SHATTERING HAZARD:                                      │
     │                                                            │
     │    Neodymium magnets are brittle and can:                  │
-    │    - Shatter on impact (dropping, collision)               │
+    │    - Shatter on effect (dropping, collision)               │
     │    - Send sharp fragments flying                           │
     │    - Cause eye injuries                                    │
     │                                                            │
@@ -7901,7 +7901,7 @@ CHAPTER 20: CONCLUSION AND QUICK START
     │   • Something to spin (shaft, bearings, frame)            │
     │   • Something to spin it (your hand)                      │
     │                                                            │
-    │   THE IMPROVEMENTS (In order of impact):                   │
+    │   THE IMPROVEMENTS (In order of effect):                   │
     │   1. Stronger magnets → More voltage                      │
     │   2. More coil turns → More voltage                       │
     │   3. Thicker wire → More current                          │
@@ -8447,7 +8447,7 @@ Purpose: Enable global DIY sustainable electricity generation
                     FRAMEWORK APPLICATION
 ───────────────────────────────────────────────────────────────────
 
-Task Magnitude: MACRO (Global Impact, Foundational)
+Task Magnitude: MACRO (Global effect, Foundational)
 Rigor Level: FULL (Safety-Critical, Educational, Equidistributed)
 Iterations Completed: 9 (Enhancement Delta → 0)
 
