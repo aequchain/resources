@@ -6,7 +6,7 @@ text
 ═══════════════════════════════════════════════════════════════════════════════
                          FRAMEWORK CALIBRATION
 ═══════════════════════════════════════════════════════════════════════════════
-Task Magnitude: MACRO (foundational agricultural system, multi-decade impact)
+Task Magnitude: MACRO (foundational agricultural system, multi-decade effect)
 Rigor Level: FULL (irreversible, food security critical, land transformation)
 Iterations Completed: 9
 Enhancement Delta: ZERO (plateau confirmed)
@@ -1031,7 +1031,7 @@ ROW OF CELLS (1 hectare = 50 cells in 5 rows of 10):
 │ FARM BLOCK     │ 50      │ 1 ha      │ 50 kits   │ Community food security │
 │ COMMUNITY      │ 250     │ 5 ha      │ 250 kits  │ Village food sovereignty│
 │ DISTRICT       │ 2500    │ 50 ha     │ 2500 kits │ Regional food network   │
-│ REGIONAL       │ 25000   │ 500 ha    │ 25000 kits│ Provincial impact       │
+│ REGIONAL       │ 25000   │ 500 ha    │ 25000 kits│ Provincial effect       │
 └─────────────────────────────────────────────────────────────────────────────┘
 
 CONTOUR ADAPTATION:
